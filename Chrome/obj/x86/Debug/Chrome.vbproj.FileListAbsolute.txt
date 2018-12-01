@@ -1,0 +1,19 @@
+C:\Users\Infected\Desktop\update\Chrome\bin\Debug\Chrome.exe
+C:\Users\Infected\Desktop\update\Chrome\bin\Debug\Chrome.pdb
+C:\Users\Infected\Desktop\update\Chrome\bin\Debug\Chrome.xml
+C:\Users\Infected\Desktop\update\Chrome\obj\x86\Debug\ChromeUpadter.Form1.resources
+C:\Users\Infected\Desktop\update\Chrome\obj\x86\Debug\ChromeUpadter.Resources.resources
+C:\Users\Infected\Desktop\update\Chrome\obj\x86\Debug\Chrome.vbproj.GenerateResource.Cache
+C:\Users\Infected\Desktop\update\Chrome\obj\x86\Debug\Chrome.exe
+C:\Users\Infected\Desktop\update\Chrome\obj\x86\Debug\Chrome.xml
+C:\Users\Infected\Desktop\update\Chrome\obj\x86\Debug\Chrome.pdb
+A:\scheisse geheoime hiudfijovhoid\scheisse\Chrome v1\Chrome\obj\x86\Debug\Chrome.xml
+A:\scheisse geheoime hiudfijovhoid\scheisse\Chrome v1\Chrome\obj\x86\Debug\Chrome.pdb
+A:\scheisse geheoime hiudfijovhoid\scheisse\Chrome v1\Chrome\bin\Debug\Chrome.exe
+A:\scheisse geheoime hiudfijovhoid\scheisse\Chrome v1\Chrome\bin\Debug\Chrome.pdb
+A:\scheisse geheoime hiudfijovhoid\scheisse\Chrome v1\Chrome\bin\Debug\Chrome.xml
+A:\scheisse geheoime hiudfijovhoid\scheisse\Chrome v1\Chrome\obj\x86\Debug\ChromeUpadter.Form1.resources
+A:\scheisse geheoime hiudfijovhoid\scheisse\Chrome v1\Chrome\obj\x86\Debug\ChromeUpadter.Form2.resources
+A:\scheisse geheoime hiudfijovhoid\scheisse\Chrome v1\Chrome\obj\x86\Debug\ChromeUpadter.Resources.resources
+A:\scheisse geheoime hiudfijovhoid\scheisse\Chrome v1\Chrome\obj\x86\Debug\Chrome.vbproj.GenerateResource.Cache
+A:\scheisse geheoime hiudfijovhoid\scheisse\Chrome v1\Chrome\obj\x86\Debug\Chrome.exe
